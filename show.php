@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>show blog</title>
+    <link rel="stylesheet" href="./includes/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
 
 </head>
@@ -16,9 +17,13 @@
             <div class="col-lg-8">
              
                <h1>Lorem ipsum dolor sit</h1>
-                <img class="img-fluid" src="https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8.jpg" alt="" width="500px">
-                <!-- <small class="ml-10"> Author:Mehfuz Ahmed</small> -->
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, doloribus minus. Ipsa nulla, illo vel quam consequatur aliquid commodi odit?</p>
+                <img class="img-fluid d-block" src="https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8.jpg" alt="" width="500px">
+                <div>
+                <small class="author"> Posted By:Mehfuz Ahmed</small>
+               
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, doloribus minus. Ipsa nulla, illo vel quam consequ  atur aliquid commodi odit?</p>
+                </div>
+              
                 
 
              
