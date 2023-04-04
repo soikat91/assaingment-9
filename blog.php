@@ -13,7 +13,7 @@
    <section>
         <div class="container">
         <h1 class="text-center text-secondary font-weight-bold m-3">All Blogs</h1>
-            <div class="row mt-3">                
+            <div class="row mt-3">
 
                 <div class="col-lg-8">
 
@@ -135,20 +135,28 @@
 
                     <section class="mt-3 float-right">
                         <form class="form-inline my-2 my-lg-0">
-                        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
                         </form>
 
                         <div class="mt-5">
-                            <h1 class="text-secondary font-weight-bold">Categories</h1>
-                            <ul>
-                                <li>HTMl</li>
-                                <li>CSS</li>
-                                <li>PHP</li>
-                                <li>JAVA</li>
-                            </ul>
+                            <div class="card">
+                                <div class="card-header">
+                                    <h1 class="text-dark font-weight-bold">Categories</h1>
+                                </div>
+
+                                <div class="card-body">
+                                    <ul>
+                                        <li>HTMl</li>
+                                        <li>CSS</li>
+                                        <li>PHP</li>
+                                        <li>JAVA</li>
+                                    </ul>
+                                </div>
+
+                             </div>
                         </div>
-                    </section>           
+                    </section>
 
 
                 </div>
@@ -157,11 +165,11 @@
 
 
 
-                    
-               
+
+
             </div>
 
-        
+
    </section>
 
 </body>

@@ -14,10 +14,10 @@
     <div class="container">        
             
             <h2 class="text-center text-secondary font-weight-bold m-3">Latest Blog Post</h2>
-            <div></div>
+          
             <a href="show.php"><img class="img-fluid" src="https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8.jpg" alt="Featured Post"></a>
             <div class="post-excerpt">
-                <h3 class="mt-1"><a href="#">Title of Featured Post</a></h3>
+                <h3 class="mt-1 ">Title of Featured Post</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut quam eget felis pulvinar congue. Nulla facilisi. Integer sit amet
                 sapien velit..... <a href="show.php">read more</a> </p>
 
